@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SpeechRecognition", "SpeechRecognition\SpeechRecognition.pyproj", "{7992F86C-6241-46C7-A8E7-A1B7B404FDD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7992F86C-6241-46C7-A8E7-A1B7B404FDD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7992F86C-6241-46C7-A8E7-A1B7B404FDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5094B51-3E0F-4619-8752-8933AEEF1F44}
+	EndGlobalSection
+EndGlobal
